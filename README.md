@@ -18,19 +18,14 @@ https://crop-patience-appetizer.ngrok-free.dev/
 ### Dashboard
 <img src="https://github.com/user-attachments/assets/e0a1874a-5e56-4ea2-aa13-4d0c56d55af5">
 
-![Dashboard](<img width="1915" height="848" alt="Screenshot 2026-06-24 191355" src="https://github.com/user-attachments/assets/e0a1874a-5e56-4ea2-aa13-4d0c56d55af5" />)
-
 ### Energy Consumption Analysis
-
-![Analysis](<img width="1437" height="473" alt="Screenshot 2026-06-24 191429" src="https://github.com/user-attachments/assets/90ac008e-d24b-4423-80fd-8107614ec03a" />)
+<img width="1437" height="473" alt="Screenshot 2026-06-24 191429" src="https://github.com/user-attachments/assets/90ac008e-d24b-4423-80fd-8107614ec03a" />
 
 ### Prediction Results
-
-![Prediction](<img width="1392" height="421" alt="Screenshot 2026-06-24 191443" src="https://github.com/user-attachments/assets/1087539e-77d2-4ed9-87d8-be3ee8bcb6c2" />)
+<img width="1392" height="421" alt="Screenshot 2026-06-24 191443" src="https://github.com/user-attachments/assets/1087539e-77d2-4ed9-87d8-be3ee8bcb6c2" />
 
 ### Wastage Detection
-
-![Wastage Detection](<img width="1405" height="486" alt="Screenshot 2026-06-24 191452" src="https://github.com/user-attachments/assets/f6c9fff2-d1a6-41fb-85bb-44bd2f7388c1" />)
+<img width="1405" height="486" alt="Screenshot 2026-06-24 191452" src="https://github.com/user-attachments/assets/f6c9fff2-d1a6-41fb-85bb-44bd2f7388c1" />
 
 
 ---
