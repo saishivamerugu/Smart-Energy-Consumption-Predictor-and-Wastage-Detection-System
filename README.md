@@ -1,1 +1,1 @@
-# Smart-Energy-Consumption-Predictor-Wastage-Detection-System-
+# Smart-Energy-Consumption-Predictor-and-Wastage-Detection-System
