@@ -16,6 +16,7 @@ https://crop-patience-appetizer.ngrok-free.dev/
 ## 📸 Project Screenshots
 
 ### Dashboard
+<img src="https://github.com/user-attachments/assets/e0a1874a-5e56-4ea2-aa13-4d0c56d55af5">
 
 ![Dashboard](<img width="1915" height="848" alt="Screenshot 2026-06-24 191355" src="https://github.com/user-attachments/assets/e0a1874a-5e56-4ea2-aa13-4d0c56d55af5" />)
 
